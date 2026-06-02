@@ -1,0 +1,5 @@
+html,body{height:100%;margin:0;background:#fff}
+body{display:grid;place-items:center}
+.dott-wrap{position:relative;width:min(920px,96vw);line-height:0}
+.dott-wrap svg{display:block;width:100%;height:auto}
+#canvasdottlogo{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}
